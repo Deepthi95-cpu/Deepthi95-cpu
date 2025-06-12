@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepthi Mushini
 
-💡 Pre-final year Engineering student passionate about building AI-powered tools and solving real-world problems.  
+💡 Final year B.tech student passionate about building AI-powered tools and solving real-world problems.  
 🚀 Actively exploring Generative AI, Web Development, and Data-Driven Applications.
 
 ---
@@ -75,7 +75,7 @@ Built a custom **Gemini AI chatbot** using Angular & Node.js backend to answer s
 
 - 🧪 Build a personal ML-based health tracking app  
 - 🎓 Learn TensorFlow and PyTorch  
-- 📌 Apply for internships at tech-focused startups or MNCs like NVIDIA or TCS Digital  
+- 📌 Apply for internships at tech-focused startups or MNCs like NVIDIA, Barclays  
 - 💬 Keep improving my AI chatbot and deploy it live
 
 ---
