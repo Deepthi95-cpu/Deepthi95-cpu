@@ -1,19 +1,28 @@
 # 👋 Hi, I'm Deepthi Mushini
 
-💡 Final year B.tech student passionate about building AI-powered tools and solving real-world problems.  
-🚀 Actively exploring Generative AI, Web Development, and Data-Driven Applications.
+🎓 Final year B.Tech student passionate about building AI-powered tools and solving real-world problems.  
+🚀 Actively exploring Generative AI, Full Stack Web Development, and Data-Driven Applications.
 
 ---
 
 ## 💼 Projects
 
-### 🔹 Campus Placement Management System + AI Chatbot  
-Built a custom **Gemini AI chatbot** using Angular & Node.js backend to answer student queries related to placements.
+### 📘 Campus Placement Management System (Full Stack Web App)
 
-**Features:**
-- Integrated Google Sheets API for real-time company data
-- Used Gemini 1.5 Flash for natural language responses
-- Enhanced student experience through smart Q&A
+A feature-rich campus recruitment platform with AI-powered mock interviews and resume reviews using Gemini AI.  
+Built with **Angular + Node.js + MySQL** and deployed with a strong focus on clean UX for students and recruiters.
+
+#### 🔑 Key Highlights:
+- 🧑‍🎓 Student profile management (name, branch, CGPA, resume, LinkedIn/GitHub links)
+- 🧠 Gemini AI integration for:
+  - Mock interview simulations  
+  - Resume review feedback
+- 🏢 Recruiter dashboard: filter candidates by branch, CGPA ≥ 6.0, year, backlogs
+- 🔐 JWT Authentication, password reset via Gmail (Nodemailer)
+- 📄 Resume uploads/downloads via Multer
+- ⭐ Student feedback module (1–5 star rating)
+
+🔗 GitHub Repo: [Campus Placement Management System](https://github.com/Deepthi95-cpu/campus-placement-management-system)
 
 ---
 
@@ -28,7 +37,7 @@ Built a custom **Gemini AI chatbot** using Angular & Node.js backend to answer s
 
 📌 Built and applied these skills directly in my campus chatbot project.
 
-![Kaggle Badge](./Completed-5-Day-GenAI-Intensive.png)
+![Kaggle Badge](./kaggle-genai-certificate.png)
 
 ---
 
